@@ -65,7 +65,7 @@ fun SimpleListView() {
         }
     }
 }
-//jhvjhh
+//jhvjh
 @Composable
 fun ListRow(model: FruitModel) {
     Row(
